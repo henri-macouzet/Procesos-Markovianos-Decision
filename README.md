@@ -114,8 +114,8 @@ procesos-markovianos/
 Clona el repositorio:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_REPOSITORIO>
+git clone https://github.com/henri-macouzet/Procesos-Markovianos-de-Decision
+cd Procesos-Markovianos-de-Decision
 ```
 
 Instala las dependencias de Python:
