@@ -56,7 +56,12 @@ La versión desarrollada con Python y Streamlit proporciona una interfaz interac
 
 ![Configuración del modelo](images/streamlit_configuracion.png)
 
-### Resultados y visualización
+### Visualización
+
+![Visualización del modelo](images/streamlit_visualizacion.png)
+![Visualización del modelo](images/streamlit_visualizacion2.png)
+
+### Resultados
 
 ![Resultados del modelo](images/streamlit_resultados.png)
 
@@ -159,8 +164,8 @@ docs/Manual.pdf
 
 ## Autores
 
+- **Victoria Hernández Pérez**
 - **Enrique Martínez Macouzet**
-- **Kenia Enid Velázquez Rodríguez**
 
 ## Contexto académico
 
